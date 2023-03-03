@@ -1,5 +1,5 @@
 # Current Hardware
-Shows the evolution of my current hardware for development, gaming, etc. 
+Shows the evolution of my current hardware for professional and private development 👨‍💻
 
 I use this project to maintain the specs of my computing hardware. The files are named after specific models I own. I any of my hardware receives an upgrade I will also commit new specs. So every commit will represent a new hardware upgrade. 
 
